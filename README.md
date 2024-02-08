@@ -2,12 +2,13 @@ Homepage
 
 ## Introduction
 
-My name is Nathan Sturgill, this is my personal website
+My name is Nathan Sturgill, welcome to my personal website!
 
-This is my second go around, I had to start from scratch
-
-## GIF Demos
-
-<iframe src="https://giphy.com/embed/jA7rz1xwbkHDi" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/forums-muthead-mut-jA7rz1xwbkHDi">via GIPHY</a></p>
+## Links to Projects
+[Final Teaching Portfolio.pdf](https://github.com/nathansturgill/nathansturgill.github.io/files/14214687/Final.Teaching.Portfolio.pdf)
+[509 Final Project.pdf](https://github.com/nathansturgill/nathansturgill.github.io/files/14214689/509.Final.Project.pdf)
 
 
+## Picture
+Current Updated Profile Picture for Website:
+![Nathan_profile_pic2 0](https://github.com/nathansturgill/nathansturgill.github.io/assets/147578367/14380679-4c41-489d-8b74-2fbecdfe9723)
